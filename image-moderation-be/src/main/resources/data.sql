@@ -37,30 +37,50 @@ INSERT INTO product_attachment ( seq, url, product_id) VALUES(0,'https://media.s
 INSERT INTO product_attachment ( seq, url, product_id) VALUES(1,'https://media.styletribute.com/products/104015/620x620/94d6946a721e03f7089264f5284b18c1.jpg',4);	
 INSERT INTO product_attachment ( seq, url, product_id) VALUES(2,'https://media.styletribute.com/products/104015/620x620/9f86d0dd88e09490a75df7860994b982.jpg',4);	
 INSERT INTO product_attachment ( seq, url, product_id) VALUES(3,'https://media.styletribute.com/products/104015/620x620/77022b425438d3a4abb0f7805cb26cfa.jpg',4);	
-INSERT INTO product_attachment ( seq, url, product_id) VALUES(4,'https://media.styletribute.com/products/104015/620x620/f51c8b91d829df4ba4fef79da2af3813.jpg',4);	
+INSERT INTO product_attachment ( seq, url, product_id) VALUES(4,'https://media.styletribute.com/products/104015/620x620/f51c8b91d829df4ba4fef79da2af3813.jpg',4);
+INSERT INTO product_attachment ( seq, url, product_id) VALUES(5,'https://media.styletribute.com/products/104015/620x620/94d6946a721e03f7089264f5284b18c1.jpg',4);
 
 INSERT INTO product_attachment ( seq, url, product_id) VALUES(0,'https://media.styletribute.com/products/104013/620x620/eef3a50d47a1faf5f439c9d0ca523768.jpg',5);	
-INSERT INTO product_attachment ( seq, url, product_id) VALUES(1,'https://media.styletribute.com/products/104013/620x620/8915b9b635fc337111f5589377cebdb9.jpg',5);	
-INSERT INTO product_attachment ( seq, url, product_id) VALUES(2,'https://media.styletribute.com/products/104013/620x620/f2c1bd53480fcdc88d2134f57660e99d.jpg',5);	
-INSERT INTO product_attachment ( seq, url, product_id) VALUES(3,'https://media.styletribute.com/products/104013/620x620/e7bf9f56d7ee94eb4b0106edc05b25cb.jpg',5);	
-INSERT INTO product_attachment ( seq, url, product_id) VALUES(4,'https://media.styletribute.com/products/104013/620x620/5c23163a5368718f6dd5581cdc498d26.jpg',5);	
+INSERT INTO product_attachment ( seq, url, product_id) VALUES(1,'https://media.styletribute.com/products/104013/620x620/eef3a50d47a1faf5f439c9d0ca523768.jpg',5);
+INSERT INTO product_attachment ( seq, url, product_id) VALUES(2,'https://media.styletribute.com/products/104013/620x620/eef3a50d47a1faf5f439c9d0ca523768.jpg',5);
+INSERT INTO product_attachment ( seq, url, product_id) VALUES(3,'https://media.styletribute.com/products/104013/620x620/eef3a50d47a1faf5f439c9d0ca523768.jpg',5);
+INSERT INTO product_attachment ( seq, url, product_id) VALUES(4,'https://media.styletribute.com/products/104013/620x620/eef3a50d47a1faf5f439c9d0ca523768.jpg',5);
+INSERT INTO product_attachment ( seq, url, product_id) VALUES(5,'https://media.styletribute.com/products/104013/620x620/eef3a50d47a1faf5f439c9d0ca523768.jpg',5);
 
 INSERT INTO product_attachment ( seq, url, product_id) VALUES(0,'https://media.styletribute.com/products/104008/620x620/e50c0e21b536734a515005c5354e8793.jpg',6);	
 INSERT INTO product_attachment ( seq, url, product_id) VALUES(1,'https://media.styletribute.com/products/104008/620x620/8b4ba0d10ec6cd6352a62323e73606e6.jpg',6);	
+INSERT INTO product_attachment ( seq, url, product_id) VALUES(2,'https://media.styletribute.com/products/104008/620x620/e50c0e21b536734a515005c5354e8793.jpg',6);	
+INSERT INTO product_attachment ( seq, url, product_id) VALUES(3,'https://media.styletribute.com/products/104008/620x620/8b4ba0d10ec6cd6352a62323e73606e6.jpg',6);
+INSERT INTO product_attachment ( seq, url, product_id) VALUES(4,'https://media.styletribute.com/products/104008/620x620/e50c0e21b536734a515005c5354e8793.jpg',6);	
+INSERT INTO product_attachment ( seq, url, product_id) VALUES(5,'https://media.styletribute.com/products/104008/620x620/8b4ba0d10ec6cd6352a62323e73606e6.jpg',6);
 
 INSERT INTO product_attachment ( seq, url, product_id) VALUES(0,'https://media.styletribute.com/products/104007/620x620/3c9c0488f67f41bb75fae000a9fcfee4.jpg',7);	
-INSERT INTO product_attachment ( seq, url, product_id) VALUES(1,'https://media.styletribute.com/products/104007/620x620/4664b57297b888ea35040cf306ab7f1a.jpg',7);	
-
+INSERT INTO product_attachment ( seq, url, product_id) VALUES(1,'https://media.styletribute.com/products/104007/620x620/3c9c0488f67f41bb75fae000a9fcfee4.jpg',7);
+INSERT INTO product_attachment ( seq, url, product_id) VALUES(2,'https://media.styletribute.com/products/104007/620x620/3c9c0488f67f41bb75fae000a9fcfee4.jpg',7);
+INSERT INTO product_attachment ( seq, url, product_id) VALUES(3,'https://media.styletribute.com/products/104007/620x620/3c9c0488f67f41bb75fae000a9fcfee4.jpg',7);
+INSERT INTO product_attachment ( seq, url, product_id) VALUES(4,'https://media.styletribute.com/products/104007/620x620/3c9c0488f67f41bb75fae000a9fcfee4.jpg',7);
+INSERT INTO product_attachment ( seq, url, product_id) VALUES(5,'https://media.styletribute.com/products/104007/620x620/3c9c0488f67f41bb75fae000a9fcfee4.jpg',7);
 
 INSERT INTO product_attachment ( seq, url, product_id) VALUES(0,'https://media.styletribute.com/products/104005/620x620/f152d92173691150ec522eb00ec624d7.jpg',8);	
-INSERT INTO product_attachment ( seq, url, product_id) VALUES(1,'https://media.styletribute.com/products/104005/620x620/cc0559f1ed85c00ac311b1778ee2b87f.jpg',8);	
-INSERT INTO product_attachment ( seq, url, product_id) VALUES(2,'https://media.styletribute.com/products/104005/620x620/20bbbc1d5b3daec920db6297360cb364.jpg',8);	
+INSERT INTO product_attachment ( seq, url, product_id) VALUES(1,'https://media.styletribute.com/products/104005/620x620/f152d92173691150ec522eb00ec624d7.jpg',8);
+INSERT INTO product_attachment ( seq, url, product_id) VALUES(2,'https://media.styletribute.com/products/104005/620x620/f152d92173691150ec522eb00ec624d7.jpg',8);
+INSERT INTO product_attachment ( seq, url, product_id) VALUES(3,'https://media.styletribute.com/products/104005/620x620/f152d92173691150ec522eb00ec624d7.jpg',8);
+INSERT INTO product_attachment ( seq, url, product_id) VALUES(4,'https://media.styletribute.com/products/104005/620x620/f152d92173691150ec522eb00ec624d7.jpg',8);
+INSERT INTO product_attachment ( seq, url, product_id) VALUES(5,'https://media.styletribute.com/products/104005/620x620/f152d92173691150ec522eb00ec624d7.jpg',8);
 
 INSERT INTO product_attachment ( seq, url, product_id) VALUES(0,'https://media.styletribute.com/products/103995/620x620/edt-67e3fa3b31a75ffd11bf839f94d1d4ca.jpg',9);	
+INSERT INTO product_attachment ( seq, url, product_id) VALUES(1,'https://media.styletribute.com/products/103995/620x620/edt-67e3fa3b31a75ffd11bf839f94d1d4ca.jpg',9);
+INSERT INTO product_attachment ( seq, url, product_id) VALUES(2,'https://media.styletribute.com/products/103995/620x620/edt-67e3fa3b31a75ffd11bf839f94d1d4ca.jpg',9);
+INSERT INTO product_attachment ( seq, url, product_id) VALUES(3,'https://media.styletribute.com/products/103995/620x620/edt-67e3fa3b31a75ffd11bf839f94d1d4ca.jpg',9);
+INSERT INTO product_attachment ( seq, url, product_id) VALUES(4,'https://media.styletribute.com/products/103995/620x620/edt-67e3fa3b31a75ffd11bf839f94d1d4ca.jpg',9);
+INSERT INTO product_attachment ( seq, url, product_id) VALUES(5,'https://media.styletribute.com/products/103995/620x620/edt-67e3fa3b31a75ffd11bf839f94d1d4ca.jpg',9);
 
 INSERT INTO product_attachment ( seq, url, product_id) VALUES(0,'https://media.styletribute.com/products/103993/620x620/86af23dc704b9d075b9669a9c4d1af02.jpg',10);	
 INSERT INTO product_attachment ( seq, url, product_id) VALUES(1,'https://media.styletribute.com/products/103993/620x620/929f747e80d996871958d21ba59d4339.jpg',10);	
-INSERT INTO product_attachment ( seq, url, product_id) VALUES(2,'https://media.styletribute.com/products/103993/620x620/ed45998c86969bc6168c044e61dd82dc.jpg',10);	
+INSERT INTO product_attachment ( seq, url, product_id) VALUES(2,'https://media.styletribute.com/products/103993/620x620/ed45998c86969bc6168c044e61dd82dc.jpg',10);
+INSERT INTO product_attachment ( seq, url, product_id) VALUES(3,'https://media.styletribute.com/products/103993/620x620/86af23dc704b9d075b9669a9c4d1af02.jpg',10);	
+INSERT INTO product_attachment ( seq, url, product_id) VALUES(4,'https://media.styletribute.com/products/103993/620x620/929f747e80d996871958d21ba59d4339.jpg',10);	
+INSERT INTO product_attachment ( seq, url, product_id) VALUES(5,'https://media.styletribute.com/products/103993/620x620/ed45998c86969bc6168c044e61dd82dc.jpg',10);	
 
 INSERT INTO product_attachment ( seq, url, product_id) VALUES(0,'https://media.styletribute.com/products/103992/620x620/0f8222a38d1a9403c89cc74958e4a453.jpg',11);	
 INSERT INTO product_attachment ( seq, url, product_id) VALUES(1,'https://media.styletribute.com/products/103992/620x620/6d1398785f3b3de0ec29173ed398ee01.jpg',11);	
