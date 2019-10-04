@@ -1,0 +1,30 @@
+version: '3'
+services:
+    mysql-server:
+        image: 'mysql:5.7'
+        ports:
+            - 3306:3306
+        environment:
+            MYSQL_ALLOW_EMPTY_PASSWORD: 1
+            MYSQL_DATABASE: image_moderation
+            MYSQL_USER: root
+            MYSQL_PASSWORD: 
+        networks:
+            - backend
+    backend-app:
+        depends_on: [mysql-server]
+        build: './image-moderation-be/'
+        ports:
+            - 8080:8080
+        networks:
+            - backend
+    frontend-app:
+        depends_on: [backend-app]
+        build: './image-moderation-fe/'
+        ports:
+            - 3000:3000
+        networks:
+            - frontend
+networks:
+    backend:
+    frontend:
