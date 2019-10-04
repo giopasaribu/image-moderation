@@ -13,10 +13,10 @@ const StatusInfo = props => {
     <div style={style}>
       Status :
       <span style={statusStyle}>
-        <b>{props.status}</b>
+        <b> {props.status}</b>
       </span>
       <br />
-      Reject Reason : <span>{props.rejectReason}</span>
+      {props.status !== 'approved' ? (<span>Reject Reason : {props.rejectReason}</span>) : (<br />)}
     </div>
   );
 };

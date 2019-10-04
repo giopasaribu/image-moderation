@@ -28,7 +28,7 @@ const SubmitProduct = props => {
       </div>
       <div>
         <select onChange={setRejectReason.bind(this)}>
-          <option value="">Reject Reason ...</option>
+          <option value="">No Reason</option>
           <option value="Pictures are blurry">Pictures are blurry</option>
           <option value="Missing picture">Missing picture</option>
           <option value="Not appropriate">Not appropriate</option>
